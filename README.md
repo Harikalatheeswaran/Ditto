@@ -245,7 +245,6 @@ DEFAULT_FILE      = "ditto_macro.json"  # Default save filename
 ```
 Ditto/
 ├── ditto.py          # Main script — all logic lives here
-├── pyproject.toml    # Project metadata & dependencies
 └── README.md         # This file
 ```
 
